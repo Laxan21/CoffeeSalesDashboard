@@ -7,7 +7,9 @@ Used star schema to create the four tables (3 dimension and 1 fact table) from t
 
 Created visuals for the total sales/trasactions of the month and days, product categories, and stores
 ![image](https://github.com/user-attachments/assets/9cb91a7e-eb49-4373-878c-85b331516d50)
+
 ![image](https://github.com/user-attachments/assets/a0996b36-cba1-4ba8-9c0e-0b3f33a994f5)
+
 ![image](https://github.com/user-attachments/assets/bd6c356a-91ef-426a-9b1f-bad489ff072f)
 
 
