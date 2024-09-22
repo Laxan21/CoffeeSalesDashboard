@@ -1,0 +1,3 @@
+# CoffeeSalesDashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiYWQxNGEyY2YtYTdiZi00M2VmLWJhZjUtZjFmNjI5NzFkZGIzIiwidCI6IjFhODNjOTUzLWRmNGItNDUxMi05NDUxLWQ0NGEwNzZkMDM4OSJ9
